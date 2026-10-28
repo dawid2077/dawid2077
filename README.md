@@ -1,5 +1,5 @@
 ### Hi
-I'm Dawid. I'm an 18-years -old python developer who daily drives nixos. I really like math,FastAPI and tinkering with LLM's
+I'm Dawid. I'm an 18-years -old python backend developer who daily drives nixos. I really like math,FastAPI and tinkering with LLM's
 
 
 ### Tech Stack 🚀
