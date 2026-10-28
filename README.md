@@ -20,7 +20,7 @@ I'm Dawid. I'm an 18-years -old python developer who daily drives nixos. I reall
 ![Clerk Auth](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 
 ### Contact
-🌐 dawidm.com
+🌐 ![dawidm.com](https://dawidm.com)
 
 📧 dawid.m.motloch@gmail.com
 
