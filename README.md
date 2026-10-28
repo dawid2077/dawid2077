@@ -21,6 +21,14 @@ I'm Dawid. I'm an 18-years -old python developer who daily drives nixos. I reall
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logo=turso&logoColor=black)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawid2077&layout=compact&theme=tokyonight&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dawid2077&repo=&theme=dark)](https://github.com/dawid2077/fastapi-template)
+
+
+
 ### Contact
 🌐 [dawidm.com](https://dawidm.com)
 
